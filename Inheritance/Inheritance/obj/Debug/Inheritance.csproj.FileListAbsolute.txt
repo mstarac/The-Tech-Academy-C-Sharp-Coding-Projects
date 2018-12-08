@@ -1,2 +1,9 @@
 C:\Users\Student\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
 C:\Users\Student\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

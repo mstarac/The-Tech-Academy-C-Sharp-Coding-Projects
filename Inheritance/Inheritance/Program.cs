@@ -10,11 +10,21 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee();
+            Person person = new Employee();
             person.FirstName = "Sample";
             person.LastName = "Student";
+            string FullName = person.FirstName + person.LastName;
             person.SayName();
+
+            Employee employee = new Employee();
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
+            employee.SayName();
+
+            Console.WriteLine("Please enter the name of employee.");
             Console.ReadLine();
+
+
         }
     }
 }

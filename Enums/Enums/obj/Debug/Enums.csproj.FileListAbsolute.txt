@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\Student\source\repos\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\Student\source\repos\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.pdb

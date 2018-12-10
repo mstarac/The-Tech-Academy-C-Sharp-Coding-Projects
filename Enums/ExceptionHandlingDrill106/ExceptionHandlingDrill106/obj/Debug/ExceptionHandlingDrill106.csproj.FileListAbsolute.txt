@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\obj\Debug\ExceptionHandlingDrill106.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\obj\Debug\ExceptionHandlingDrill106.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\bin\Debug\ExceptionHandlingDrill106.exe.config
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\bin\Debug\ExceptionHandlingDrill106.exe
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\bin\Debug\ExceptionHandlingDrill106.pdb
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\obj\Debug\ExceptionHandlingDrill106.exe
+C:\Users\Student\source\repos\ExceptionHandlingDrill106\ExceptionHandlingDrill106\obj\Debug\ExceptionHandlingDrill106.pdb

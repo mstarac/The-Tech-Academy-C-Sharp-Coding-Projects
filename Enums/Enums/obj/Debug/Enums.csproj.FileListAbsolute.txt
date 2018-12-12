@@ -5,3 +5,10 @@ C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.csprojAssemblyReferenc
 C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
 C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.exe
 C:\Users\Student\source\repos\Enums\Enums\obj\Debug\Enums.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\The-Tech-Academy-C-Sharp-Coding-Projects\Enums\Enums\obj\Debug\Enums.pdb

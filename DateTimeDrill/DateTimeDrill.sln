@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeDrill", "DateTime\DateTimeDrill.csproj", "{8A81BD87-DE35-47B9-8653-F8DFE75959D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A81BD87-DE35-47B9-8653-F8DFE75959D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A81BD87-DE35-47B9-8653-F8DFE75959D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A81BD87-DE35-47B9-8653-F8DFE75959D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A81BD87-DE35-47B9-8653-F8DFE75959D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D2AAB7-996E-419D-AED0-D6F546AA0AF3}
+	EndGlobalSection
+EndGlobal

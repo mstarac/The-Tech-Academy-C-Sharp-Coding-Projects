@@ -1,0 +1,2 @@
+C:\Users\Student\source\repos\DateTime\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache

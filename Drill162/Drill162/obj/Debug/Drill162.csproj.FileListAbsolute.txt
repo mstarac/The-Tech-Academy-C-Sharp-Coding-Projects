@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Drill162\Drill162\obj\Debug\Drill162.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Drill162\Drill162\obj\Debug\Drill162.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Drill162\Drill162\bin\Debug\Drill162.exe.config
+C:\Users\Student\source\repos\Drill162\Drill162\bin\Debug\Drill162.exe
+C:\Users\Student\source\repos\Drill162\Drill162\bin\Debug\Drill162.pdb
+C:\Users\Student\source\repos\Drill162\Drill162\obj\Debug\Drill162.exe
+C:\Users\Student\source\repos\Drill162\Drill162\obj\Debug\Drill162.pdb
